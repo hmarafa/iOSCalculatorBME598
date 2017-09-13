@@ -4,7 +4,7 @@
 //
 //  Created by Hany Arafa on 9/12/17.
 //  Copyright © 2017 Hany Arafa. All rights reserved.
-// Some parts of this calculator were referenced from the following links:
+// Some parts of this calculator were referenced from the following links: 
 //https://github.com/fnk0/iOS-Calculator-Tutorial
 //https://github.com/ursooperduper/calculator/blob/master/Calculator/ViewController.swift
 
